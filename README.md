@@ -12,6 +12,7 @@ leetcode problems
 | [0016-3sum-closest](https://github.com/santa1235711/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/santa1235711/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/santa1235711/Leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/santa1235711/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/santa1235711/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/santa1235711/Leetcode/tree/master/0045-jump-game-ii) |
 ## Hash Table
@@ -144,4 +145,8 @@ leetcode problems
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/santa1235711/Leetcode/tree/master/0029-divide-two-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/santa1235711/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
