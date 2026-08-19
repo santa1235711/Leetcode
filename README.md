@@ -13,6 +13,7 @@ leetcode problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/santa1235711/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/santa1235711/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/santa1235711/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/santa1235711/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/santa1235711/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/santa1235711/Leetcode/tree/master/0045-jump-game-ii) |
 ## Hash Table
@@ -149,4 +150,5 @@ leetcode problems
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/santa1235711/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/santa1235711/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
