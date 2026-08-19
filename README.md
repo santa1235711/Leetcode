@@ -8,6 +8,7 @@ leetcode problems
 | ------- |
 | [0001-two-sum](https://github.com/santa1235711/Leetcode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/santa1235711/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/santa1235711/Leetcode/tree/master/0045-jump-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ leetcode problems
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/santa1235711/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/santa1235711/Leetcode/tree/master/0045-jump-game-ii) |
 ## Stack
 |  |
 | ------- |
@@ -28,4 +30,8 @@ leetcode problems
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/santa1235711/Leetcode/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/santa1235711/Leetcode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
