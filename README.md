@@ -14,6 +14,7 @@ leetcode problems
 | [0027-remove-element](https://github.com/santa1235711/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/santa1235711/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/santa1235711/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/santa1235711/Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/santa1235711/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/santa1235711/Leetcode/tree/master/0045-jump-game-ii) |
 ## Hash Table
@@ -25,6 +26,7 @@ leetcode problems
 | [0013-roman-to-integer](https://github.com/santa1235711/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/santa1235711/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/santa1235711/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/santa1235711/Leetcode/tree/master/0036-valid-sudoku) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,4 +153,8 @@ leetcode problems
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/santa1235711/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/santa1235711/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/santa1235711/Leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
