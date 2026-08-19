@@ -8,6 +8,7 @@ leetcode problems
 | ------- |
 | [0001-two-sum](https://github.com/santa1235711/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/santa1235711/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/santa1235711/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/santa1235711/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/santa1235711/Leetcode/tree/master/0045-jump-game-ii) |
 ## Hash Table
@@ -21,6 +22,7 @@ leetcode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/santa1235711/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/santa1235711/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/santa1235711/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
@@ -84,4 +86,8 @@ leetcode problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/santa1235711/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/santa1235711/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
