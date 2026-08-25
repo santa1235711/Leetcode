@@ -1,6 +1,6 @@
 class Solution {
     public int firstMissingPositive(int[] nums) {
-         int i=nums[0];int ptr=1;
+       int i=nums[0];int ptr=1;
         while(ptr<nums.length){
             //System.out.println(" i = "+i+" ptr = "+ptr);
          if((i-1)>=nums.length||(i-1)<0){
