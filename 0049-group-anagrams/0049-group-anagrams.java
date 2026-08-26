@@ -1,7 +1,7 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
          List<List<String>> outerList=new ArrayList<>();
-        HashMap<String,Integer> map=new HashMap<>();
+        HashMap<String,List<String>> map=new HashMap<>();
         int counter=0;
        
         StringBuilder sb=new StringBuilder();
@@ -24,14 +24,17 @@ class Solution {
          sb.setLength(0);
         
 
-            if(map.containsKey(buff)){
-            outerList.get(map.get(buff)).add(strs[i]);
+             if(map.containsKey(buff)){
+             map.get(buff).add(strs[i]);
             }
             else{
-                map.put(buff,counter++);
-                outerList.add(new ArrayList<>(List.of(strs[i])));
+                map.put(buff,new ArrayList<>(List.of(strs[i])));
             }
         }
-return outerList;
+
+        for(String key:map.keySet()){
+            outerList.add(map.get(key));
+        }
+return outerList;   
     }
 }
