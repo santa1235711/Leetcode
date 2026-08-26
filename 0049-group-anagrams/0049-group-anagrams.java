@@ -8,14 +8,19 @@ class Solution {
         for(int i=0;i<strs.length;i++){
             int[] frequencyMap=new int[26];
             int len=strs[i].length();
-           for(int j=0;j<len;j++)
+            //System.out.println(strs[i].charAt(len-1));
+
+           for(int j=0;j<len;j++){
             ++frequencyMap[strs[i].charAt(j)-'a'];
+        //System.out.println(frequencyMap[strs[i].charAt(j)-'a']);
+        }
            
 
            for(int j=0;j<26;j++)
             sb.append(frequencyMap[j]).append('#');
 
          String buff=sb.toString();
+        // System.out.println(buff);
          sb.setLength(0);
         
 
