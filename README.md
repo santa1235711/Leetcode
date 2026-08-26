@@ -21,6 +21,7 @@ leetcode problems
 | [0045-jump-game-ii](https://github.com/santa1235711/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/santa1235711/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/santa1235711/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/santa1235711/Leetcode/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ leetcode problems
 | [0030-substring-with-concatenation-of-all-words](https://github.com/santa1235711/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/santa1235711/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/santa1235711/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/santa1235711/Leetcode/tree/master/0049-group-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,6 +118,7 @@ leetcode problems
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/santa1235711/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/santa1235711/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/santa1235711/Leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/santa1235711/Leetcode/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -126,6 +129,7 @@ leetcode problems
 | ------- |
 | [0015-3sum](https://github.com/santa1235711/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/santa1235711/Leetcode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/santa1235711/Leetcode/tree/master/0049-group-anagrams) |
 ## Backtracking
 |  |
 | ------- |
